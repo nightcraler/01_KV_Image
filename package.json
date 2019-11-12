@@ -1,5 +1,5 @@
 {
-  "name": "adapt-contrib-componentName",
+  "name": "01_KV_Image",
   "version": "0.0.1",
   "description": "Description of your component",
   "main": "",
@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/adaptlearning/adapt-contrib-componentName.git"
+    "url": "https://github.com/nightcraler/01_KV_Image.git"
   },
   "author": "AdaptLearning",
   "license": "GPL v3",
   "bugs": {
-    "url": "https://github.com/adaptlearning/adapt-contrib-componentName/issues"
+    "url": "https://github.com/nightcraler/01_KV_Image.git"
   }
 }
